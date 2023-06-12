@@ -1,0 +1,15 @@
+{
+  "name": "nfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nfc-pcsc": "^0.8.1",
+    "node-key-sender": "^1.0.11"
+  }
+}
