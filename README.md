@@ -1,1 +1,1 @@
-Read NFC UUID and simulate keyboard
+Read NFC UUID and simulate keyboard entry
